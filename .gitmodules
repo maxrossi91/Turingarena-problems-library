@@ -1,0 +1,15 @@
+[submodule "packings/packing_1x3-bars_in_mxn-grids"]
+	path = packings/packing_1x3-bars_in_mxn-grids
+	url = git@github.com:romeorizzi/packing_1x3-bars_in_mxn-grids.git
+[submodule "packings/packing_1x4-bars_in_mxn-grids"]
+	path = packings/packing_1x4-bars_in_mxn-grids
+	url = git@github.com:romeorizzi/packing_1x4-bars_in_mxn-grids.git
+[submodule "tiling/tiling_1x2-bars_in_mxn-grids"]
+	path = tiling/tiling_1x2-bars_in_mxn-grids
+	url = git@github.com:romeorizzi/tiling_1x2-bars_in_mxn-grids.git
+[submodule "tiling/tiling_2x3-bars_in_mxn-grids"]
+	path = tiling/tiling_2x3-bars_in_mxn-grids
+	url = git@github.com:romeorizzi/tiling_2x3-bars_in_mxn-grids.git
+[submodule "reductions/max-card-bip-match_2_max-flow"]
+	path = reductions/max-card-bip-match_2_max-flow
+	url = git@github.com:romeorizzi/max-card-bip-match_2_max-flow.git
