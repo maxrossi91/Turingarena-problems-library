@@ -5,7 +5,7 @@ Problem | Category | Description
 --- | --- | ---
 [tiling_1x2-bars_in_mxn-grids](https://github.com/romeorizzi/tiling_1x2-bars_in_mxn-grids) | [tilings](https://github.com/maxrossi91/Turingarena-problems-library/tree/master/tiling) | tiling of 1x2 bars in mxn grids
 [tiling_2x3-bars_in_mxn-grids](https://github.com/romeorizzi/tiling_2x3-bars_in_mxn-grids) | [tilings](https://github.com/maxrossi91/Turingarena-problems-library/tree/master/tiling) | tiling of 2x3 bars in mxn grids
-[packing_1x3-bars_in_mxn-grids](https://github.com/romeorizzi/packing_1x3-bars_in_mxn-grids) | [pakings](https://github.com/maxrossi91/Turingarena-problems-library/tree/master/pakings) | packing of 1x3 bars in mxn grids
+[packing_1x3-bars_in_mxn-grids](https://github.com/romeorizzi/packing_1x3-bars_in_mxn-grids) | [pakings](https://github.com/maxrossi91/Turingarena-problems-library/tree/master/packings) | packing of 1x3 bars in mxn grids
 [packing_1x4-bars_in_mxn-grids](https://github.com/romeorizzi/packing_1x4-bars_in_mxn-grids) | [pakings](https://github.com/maxrossi91/Turingarena-problems-library/tree/master/packings) | packing of 1x4 bars in mxn grids
 [max-card-bip-match_2_max-flow](https://github.com/romeorizzi/max-card-bip-match_2_max-flow) | [resuctions](https://github.com/maxrossi91/Turingarena-problems-library/tree/master/reductions) | use max-flow to compute max-cardinality bipartite matching
 ## How to add a new problem repository
